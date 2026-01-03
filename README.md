@@ -1,6 +1,6 @@
 # Sistema Integrado de Gestao Hospitalar (SIGH)
 
-## Descricao
+## Descrição
 Este projeto consiste numa simulacao avancada de um ambiente hospitalar desenvolvida em Linguagem C para sistemas Linux. O sistema utiliza uma arquitetura multiprocesso para gerir a admissao de pacientes, triagem, cirurgias, farmacia e laboratorios num ambiente de alta concorrencia.
 
 O projeto foca-se na aplicacao pratica de conceitos de Sistemas Operativos, nomeadamente:
@@ -21,7 +21,7 @@ O projeto foca-se na aplicacao pratica de conceitos de Sistemas Operativos, nome
 * Ferramenta `make`.
 * Bibliotecas: `pthread` e `rt`.
 
-## Compilacao
+## Compilação
 
 ### Para compilar o projeto, execute o seguinte comando na raiz:
 
@@ -51,12 +51,12 @@ make clean
 
 ### Lista de Comandos de Teste
 
-### Admissao de Paciente (Urgente):
+### Admissão de Paciente (Urgente):
 
 
 echo "EMERGENCY PAC_MARIA init: 0 triage: 1 stability: 90 tests: [HEMO] meds: [ANALGESICO_A]" > /tmp/input_pipe
 
-### Admissao de Paciente (Normal):
+### Admissão de Paciente (Normal):
 
 
 echo "EMERGENCY PAC_JOAO init: 0 triage: 4 stability: 100 tests: [] meds: [VITAMINA_N]" > /tmp/input_pipe
@@ -71,12 +71,12 @@ echo "SURGERY PAC_CARDIO init: 0 type: CARDIO scheduled: 10 urgency: HIGH tests:
 
 echo "APPOINTMENT PAC_CONSULTA init: 0 scheduled: 50 doctor: ORTHO tests: []" > /tmp/input_pipe
 
-### Verificar Estatisticas (Consola):
+### Verificar Estatísticas (Consola):
 
 
 echo "STATUS ALL" > /tmp/input_pipe
 
-### Pedido Manual de Reposicao (Farmacia):
+### Pedido Manual de Reposição (Farmacia):
 
 
 echo "RESTOCK ANALGESICO_A quantity: 500" > /tmp/input_pipe
