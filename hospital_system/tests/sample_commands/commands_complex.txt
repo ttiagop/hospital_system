@@ -1,0 +1,11 @@
+# --- Teste 4: Stock Esgotado ---
+# Pede 950 unidades para esgotar stock (assumindo stock inicial 1000)
+PHARMACY_REQUEST REQ001 init: 0 priority: NORMAL items: [ANALG_A:950]
+# Este paciente vai ficar pendente à espera de reposição
+EMERGENCY PAC201 init: 5 triage: 1 stability: 500 tests: [] meds: [ANALG_A]
+
+# --- Teste 6: Cirurgias Complexas (Concorrência) ---
+# Três cirurgias simultâneas para testar semáforos e recursos
+SURGERY PAC401 init: 10 type: CARDIO scheduled: 50 urgency: HIGH tests: [PREOP] meds: [ANEST_C,CARDIOV_F]
+SURGERY PAC402 init: 10 type: ORTHO scheduled: 50 urgency: HIGH tests: [PREOP] meds: [ANEST_C,ORTOPED_H]
+SURGERY PAC403 init: 10 type: NEURO scheduled: 50 urgency: HIGH tests: [PREOP] meds: [ANEST_C,NEUROLOG_G]

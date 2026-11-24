@@ -1,0 +1,6 @@
+=== COMPROVATIVO DE ENTREGA FARMÁCIA ===
+Paciente: 
+Medicamento: ANEST_C
+Quantidade: 10
+Estado: ENTREGUE
+=======================================

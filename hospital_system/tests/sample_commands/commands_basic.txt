@@ -1,0 +1,9 @@
+# --- Teste 1: Operação Básica ---
+EMERGENCY PAC001 init: 0 triage: 3 stability: 500 tests: [HEMO] meds: [ANALG_A]
+APPOINTMENT PAC002 init: 5 scheduled: 50 doctor: CARDIO tests: []
+SURGERY PAC003 init: 10 type: ORTHO scheduled: 100 urgency: LOW tests: [PREOP] meds: [ANEST_C]
+
+# --- Teste 2: Prioridade Crítica ---
+# PAC101 (Triage 1) deve passar à frente do PAC102 (Triage 5)
+EMERGENCY PAC101 init: 20 triage: 1 stability: 100 tests: [HEMO] meds: [ANALG_A]
+EMERGENCY PAC102 init: 20 triage: 5 stability: 800 tests: [] meds: []

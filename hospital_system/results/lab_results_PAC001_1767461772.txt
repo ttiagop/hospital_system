@@ -1,0 +1,8 @@
+RELATORIO DE ANALISES LABORATORIAIS
+===================================
+Paciente: PAC001
+Data/Hora: Sat Jan  3 17:36:12 2026
+Tipo de Exame: REQ_SURGERY HEMO
+Estado: CONCLUIDO
+Responsavel: SISTEMA_AUTO_LAB
+===================================

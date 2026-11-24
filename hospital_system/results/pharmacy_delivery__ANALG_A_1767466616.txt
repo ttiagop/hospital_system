@@ -1,0 +1,6 @@
+=== COMPROVATIVO DE ENTREGA FARMÁCIA ===
+Paciente: 
+Medicamento: ANALG_A
+Quantidade: 10
+Estado: ENTREGUE
+=======================================

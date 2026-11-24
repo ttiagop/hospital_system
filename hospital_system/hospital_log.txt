@@ -1,0 +1,227 @@
+[Fri Jan  2 14:09:48 2026] [SURGERY] Blocos Operatorios iniciados
+[Fri Jan  2 14:09:48 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Fri Jan  2 14:10:00 2026] [TRIAGE] [ADMIT] PAC_TESTE1 Admitido. Grav: 1
+[Fri Jan  2 14:10:02 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC_TESTE1 (Stab: 88)
+[Fri Jan  2 16:56:58 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Fri Jan  2 16:56:58 2026] [SURGERY] Blocos Operatorios iniciados
+[Fri Jan  2 16:57:01 2026] [TRIAGE] [ADMIT] PAC_VELHO Admitido. Grav: 1
+[Fri Jan  2 16:57:01 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC_VELHO (Stab: 100)
+[Fri Jan  2 16:57:51 2026] [TRIAGE] [ADMIT] PAC_01 Admitido. Grav: 1
+[Fri Jan  2 16:57:51 2026] [TRIAGE] [ADMIT] PAC_02 Admitido. Grav: 1
+[Fri Jan  2 16:57:51 2026] [TRIAGE] [ADMIT] PAC_03 Admitido. Grav: 1
+[Fri Jan  2 16:57:51 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC_01 (Stab: 90)
+[Fri Jan  2 16:57:55 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC_02 (Stab: 90)
+[Fri Jan  2 16:57:59 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC_03 (Stab: 90)
+[Fri Jan  2 16:58:34 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Fri Jan  2 16:58:34 2026] [SURGERY] Blocos Operatorios iniciados
+[Fri Jan  2 16:58:38 2026] [TRIAGE] [ADMIT] PAC_LIMPO Admitido. Grav: 1
+[Fri Jan  2 16:58:39 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC_LIMPO (Stab: 99)
+[Fri Jan  2 17:00:46 2026] [TRIAGE] [ADMIT] PAC_A Admitido. Grav: 1
+[Fri Jan  2 17:00:46 2026] [TRIAGE] [ADMIT] PAC_B Admitido. Grav: 1
+[Fri Jan  2 17:00:46 2026] [TRIAGE] [ADMIT] PAC_C Admitido. Grav: 1
+[Fri Jan  2 17:00:46 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC_A (Stab: 100)
+[Fri Jan  2 17:00:50 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC_B (Stab: 100)
+[Fri Jan  2 17:00:54 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC_C (Stab: 100)
+[Fri Jan  2 17:03:26 2026] [TRIAGE] [ADMIT] PAC_ORTO Admitido. Grav: 1
+[Fri Jan  2 17:03:26 2026] [TRIAGE] [ADMIT] PAC_NEURO Admitido. Grav: 1
+[Fri Jan  2 17:03:26 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC_ORTO (Stab: 100)
+[Fri Jan  2 17:03:31 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC_NEURO (Stab: 100)
+[Fri Jan  2 17:05:05 2026] [TRIAGE] [ADMIT] PAC_ORTO Admitido. Grav: 1
+[Fri Jan  2 17:05:05 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC_ORTO (Stab: 100)
+[Fri Jan  2 17:05:43 2026] [TRIAGE] [ADMIT] PAC_NEURO Admitido. Grav: 1
+[Fri Jan  2 17:05:43 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC_NEURO (Stab: 100)
+[Sat Jan  3 15:38:48 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 15:38:48 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 15:38:53 2026] [TRIAGE] [ADMIT] PAC_ORTO Admitido. Grav: 1
+[Sat Jan  3 15:38:53 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC_ORTO (Stab: 100)
+[Sat Jan  3 15:38:53 2026] [TRIAGE] [ADMIT] PAC_NEURO Admitido. Grav: 1
+[Sat Jan  3 15:38:53 2026] [SURGERY] [START] Cirurgia BO3-Neuro iniciada: PAC_NEURO (Stab: 100)
+[Sat Jan  3 15:38:53 2026] [TRIAGE] [ADMIT] PAC_GERAL Admitido. Grav: 1
+[Sat Jan  3 15:39:43 2026] [SURGERY] [START] Cirurgia BO1-Cardio iniciada: PAC_GERAL (Stab: 100)
+[Sat Jan  3 15:45:31 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 15:45:31 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 16:02:14 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 16:02:14 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 16:02:49 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 16:02:49 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 16:02:53 2026] [TRIAGE] [ADMIT] PAC_ORTO Admitido. Grav: 1
+[Sat Jan  3 16:02:53 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC_ORTO (Stab: 100)
+[Sat Jan  3 16:02:53 2026] [TRIAGE] [ADMIT] PAC_NEURO Admitido. Grav: 1
+[Sat Jan  3 16:02:53 2026] [SURGERY] [START] Cirurgia BO3-Neuro iniciada: PAC_NEURO (Stab: 100)
+[Sat Jan  3 16:02:53 2026] [TRIAGE] [ADMIT] PAC_GERAL Admitido. Grav: 1
+[Sat Jan  3 16:02:56 2026] [SURGERY] [START] Cirurgia BO1-Cardio iniciada: PAC_GERAL (Stab: 100)
+[Sat Jan  3 16:05:51 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 16:05:51 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 16:51:03 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 16:51:03 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 16:51:07 2026] [TRIAGE] [ADMIT] PAC001 Admitido. Grav: 3
+[Sat Jan  3 16:51:08 2026] [TRIAGE] [ADMIT] PAC002 Admitido. Grav: 4
+[Sat Jan  3 16:51:14 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC002 (Stab: 94)
+[Sat Jan  3 16:51:24 2026] [TRIAGE] [ADMIT] PAC102 Admitido. Grav: 5
+[Sat Jan  3 16:51:24 2026] [TRIAGE] [ADMIT] PAC101 Admitido. Grav: 1
+[Sat Jan  3 16:51:24 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC102 (Stab: 800)
+[Sat Jan  3 17:36:04 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 17:36:04 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 17:36:12 2026] [TRIAGE] [ADMIT] PAC001 Admitido. Grav: 3
+[Sat Jan  3 17:36:13 2026] [TRIAGE] [ADMIT] PAC002 Admitido. Grav: 4
+[Sat Jan  3 17:36:13 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC002 (Stab: 100)
+[Sat Jan  3 17:36:16 2026] [TRIAGE] [ADMIT] PAC101 Admitido. Grav: 1
+[Sat Jan  3 17:36:17 2026] [TRIAGE] [ADMIT] PAC102 Admitido. Grav: 5
+[Sat Jan  3 17:36:17 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC102 (Stab: 800)
+[Sat Jan  3 17:44:20 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 17:44:20 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 17:44:22 2026] [TRIAGE] [ADMIT] PAC001 Admitido. Grav: 3
+[Sat Jan  3 17:44:23 2026] [TRIAGE] [ADMIT] PAC002 Admitido. Grav: 4
+[Sat Jan  3 17:44:23 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC002 (Stab: 100)
+[Sat Jan  3 17:47:11 2026] [TRIAGE] [ADMIT] PAC101 Admitido. Grav: 1
+[Sat Jan  3 17:47:12 2026] [TRIAGE] [ADMIT] PAC102 Admitido. Grav: 5
+[Sat Jan  3 17:47:12 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: PAC102 (Stab: 800)
+[Sat Jan  3 17:58:59 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 17:58:59 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 18:05:24 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 18:05:24 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 18:06:05 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 18:06:05 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 18:06:07 2026] [TRIAGE] [ADMIT] STR01 Admitido. Grav: 3
+[Sat Jan  3 18:06:07 2026] [TRIAGE] [ADMIT] STR03 Admitido. Grav: 1
+[Sat Jan  3 18:06:07 2026] [TRIAGE] [ADMIT] STR06 Admitido. Grav: 3
+[Sat Jan  3 18:06:07 2026] [TRIAGE] [ADMIT] STR07 Admitido. Grav: 2
+[Sat Jan  3 18:06:07 2026] [TRIAGE] [ADMIT] STR10 Admitido. Grav: 5
+[Sat Jan  3 18:06:07 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR03 (Stab: 200)
+[Sat Jan  3 18:06:11 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR07 (Stab: 200)
+[Sat Jan  3 18:06:23 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR11 (Stab: 0)
+[Sat Jan  3 18:06:27 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR01 (Stab: 200)
+[Sat Jan  3 18:06:31 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR06 (Stab: 200)
+[Sat Jan  3 18:06:35 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR10 (Stab: 200)
+[Sat Jan  3 18:07:12 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 18:07:12 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 18:07:14 2026] [TRIAGE] [ADMIT] STR01 Admitido. Grav: 3
+[Sat Jan  3 18:07:14 2026] [TRIAGE] [ADMIT] STR02 Admitido. Grav: 2
+[Sat Jan  3 18:07:14 2026] [TRIAGE] [ADMIT] STR09 Admitido. Grav: 4
+[Sat Jan  3 18:07:14 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR02 (Stab: 200)
+[Sat Jan  3 18:07:14 2026] [SURGERY] [START] Cirurgia BO1-Cardio iniciada: STR12 (Stab: 0)
+[Sat Jan  3 18:07:17 2026] [SURGERY] [START] Cirurgia BO3-Neuro iniciada: STR13 (Stab: 0)
+[Sat Jan  3 18:07:19 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR11 (Stab: 0)
+[Sat Jan  3 18:07:19 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 18:07:19 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 18:07:24 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR09 (Stab: 200)
+[Sat Jan  3 18:07:40 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR01 (Stab: 200)
+[Sat Jan  3 18:08:02 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 18:08:02 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 18:08:05 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 18:08:05 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 18:08:07 2026] [TRIAGE] [ADMIT] STR01 Admitido. Grav: 3
+[Sat Jan  3 18:08:07 2026] [TRIAGE] [ADMIT] STR02 Admitido. Grav: 2
+[Sat Jan  3 18:08:07 2026] [TRIAGE] [ADMIT] STR03 Admitido. Grav: 1
+[Sat Jan  3 18:08:07 2026] [TRIAGE] [ADMIT] STR04 Admitido. Grav: 4
+[Sat Jan  3 18:08:07 2026] [TRIAGE] [ADMIT] STR09 Admitido. Grav: 4
+[Sat Jan  3 18:08:07 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR11 (Stab: 0)
+[Sat Jan  3 18:08:07 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR02 (Stab: 200)
+[Sat Jan  3 18:08:07 2026] [SURGERY] [START] Cirurgia BO1-Cardio iniciada: STR12 (Stab: 0)
+[Sat Jan  3 18:08:07 2026] [SURGERY] [START] Cirurgia BO3-Neuro iniciada: STR13 (Stab: 0)
+[Sat Jan  3 18:08:23 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR03 (Stab: 200)
+[Sat Jan  3 18:08:23 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR09 (Stab: 200)
+[Sat Jan  3 18:08:27 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR01 (Stab: 200)
+[Sat Jan  3 18:08:31 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR04 (Stab: 200)
+[Sat Jan  3 18:12:56 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 18:12:56 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 18:13:18 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 18:13:18 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 18:13:20 2026] [TRIAGE] [ADMIT] STR01 Admitido. Grav: 3
+[Sat Jan  3 18:13:20 2026] [TRIAGE] [ADMIT] STR02 Admitido. Grav: 2
+[Sat Jan  3 18:13:20 2026] [TRIAGE] [ADMIT] STR04 Admitido. Grav: 4
+[Sat Jan  3 18:13:20 2026] [TRIAGE] [ADMIT] STR06 Admitido. Grav: 3
+[Sat Jan  3 18:13:20 2026] [TRIAGE] [ADMIT] STR07 Admitido. Grav: 2
+[Sat Jan  3 18:13:20 2026] [TRIAGE] [ADMIT] STR08 Admitido. Grav: 1
+[Sat Jan  3 18:13:20 2026] [TRIAGE] [ADMIT] STR09 Admitido. Grav: 4
+[Sat Jan  3 18:13:20 2026] [SURGERY] [START] Cirurgia BO1-Cardio iniciada: STR12 (Stab: 0)
+[Sat Jan  3 18:13:20 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR08 (Stab: 200)
+[Sat Jan  3 18:13:20 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR02 (Stab: 200)
+[Sat Jan  3 18:13:24 2026] [SURGERY] [START] Cirurgia BO3-Neuro iniciada: STR13 (Stab: 0)
+[Sat Jan  3 18:14:42 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR11 (Stab: 0)
+[Sat Jan  3 18:14:43 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR07 (Stab: 200)
+[Sat Jan  3 18:14:53 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR01 (Stab: 200)
+[Sat Jan  3 18:14:57 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR06 (Stab: 200)
+[Sat Jan  3 18:15:01 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR09 (Stab: 200)
+[Sat Jan  3 18:15:05 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR04 (Stab: 200)
+[Sat Jan  3 18:20:34 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 18:20:34 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 18:20:38 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 18:20:38 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 18:20:40 2026] [TRIAGE] [ADMIT] STR01 Admitido. Grav: 3
+[Sat Jan  3 18:20:40 2026] [TRIAGE] [ADMIT] STR02 Admitido. Grav: 2
+[Sat Jan  3 18:20:40 2026] [TRIAGE] [ADMIT] STR06 Admitido. Grav: 3
+[Sat Jan  3 18:20:40 2026] [TRIAGE] [ADMIT] STR08 Admitido. Grav: 1
+[Sat Jan  3 18:20:40 2026] [TRIAGE] [ADMIT] STR10 Admitido. Grav: 5
+[Sat Jan  3 18:20:40 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR08 (Stab: 200)
+[Sat Jan  3 18:20:40 2026] [SURGERY] [START] Cirurgia BO1-Cardio iniciada: STR12 (Stab: 0)
+[Sat Jan  3 18:20:40 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR02 (Stab: 200)
+[Sat Jan  3 18:20:43 2026] [SURGERY] [START] Cirurgia BO3-Neuro iniciada: STR13 (Stab: 0)
+[Sat Jan  3 18:20:44 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR06 (Stab: 200)
+[Sat Jan  3 18:20:45 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR11 (Stab: 0)
+[Sat Jan  3 18:20:49 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR01 (Stab: 200)
+[Sat Jan  3 18:20:53 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR10 (Stab: 200)
+[Sat Jan  3 18:23:25 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 18:23:25 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 18:23:29 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 18:23:29 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 18:23:31 2026] [TRIAGE] [ADMIT] STR02 Admitido. Grav: 2
+[Sat Jan  3 18:23:31 2026] [TRIAGE] [ADMIT] STR04 Admitido. Grav: 4
+[Sat Jan  3 18:23:31 2026] [TRIAGE] [ADMIT] STR10 Admitido. Grav: 5
+[Sat Jan  3 18:23:31 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR02 (Stab: 200)
+[Sat Jan  3 18:23:31 2026] [SURGERY] [START] Cirurgia BO1-Cardio iniciada: STR12 (Stab: 0)
+[Sat Jan  3 18:23:34 2026] [SURGERY] [START] Cirurgia BO3-Neuro iniciada: STR13 (Stab: 0)
+[Sat Jan  3 18:23:36 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR11 (Stab: 0)
+[Sat Jan  3 18:23:40 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR04 (Stab: 200)
+[Sat Jan  3 18:23:44 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR10 (Stab: 200)
+[Sat Jan  3 18:27:44 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 18:27:45 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 18:27:47 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 18:27:47 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 18:27:49 2026] [TRIAGE] [ADMIT] STR02 Admitido. Grav: 2
+[Sat Jan  3 18:27:49 2026] [TRIAGE] [ADMIT] STR01 Admitido. Grav: 3
+[Sat Jan  3 18:27:49 2026] [TRIAGE] [ADMIT] STR05 Admitido. Grav: 5
+[Sat Jan  3 18:27:49 2026] [TRIAGE] [ADMIT] STR07 Admitido. Grav: 2
+[Sat Jan  3 18:27:49 2026] [TRIAGE] [ADMIT] STR09 Admitido. Grav: 4
+[Sat Jan  3 18:27:49 2026] [TRIAGE] [ADMIT] STR10 Admitido. Grav: 5
+[Sat Jan  3 18:27:49 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR07 (Stab: 200)
+[Sat Jan  3 18:27:49 2026] [SURGERY] [START] Cirurgia BO1-Cardio iniciada: STR12 (Stab: 0)
+[Sat Jan  3 18:27:49 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR02 (Stab: 200)
+[Sat Jan  3 18:27:52 2026] [SURGERY] [START] Cirurgia BO3-Neuro iniciada: STR13 (Stab: 0)
+[Sat Jan  3 18:27:53 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR10 (Stab: 200)
+[Sat Jan  3 18:27:54 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR11 (Stab: 0)
+[Sat Jan  3 18:27:58 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR05 (Stab: 200)
+[Sat Jan  3 18:28:02 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR01 (Stab: 200)
+[Sat Jan  3 18:28:06 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR09 (Stab: 200)
+[Sat Jan  3 18:55:48 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 18:55:48 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 18:55:50 2026] [SURGERY] Blocos Operatorios iniciados
+[Sat Jan  3 18:55:51 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sat Jan  3 18:56:56 2026] [TRIAGE] [ADMIT] STR01 Admitido. Grav: 3
+[Sat Jan  3 18:56:56 2026] [TRIAGE] [ADMIT] STR02 Admitido. Grav: 2
+[Sat Jan  3 18:56:56 2026] [PHARMACY] [APPROVED] Dispensado ANALG_A (Qtd: 10) para .
+[Sat Jan  3 18:56:56 2026] [PHARMACY] [APPROVED] Dispensado ANEST_C (Qtd: 10) para .
+[Sat Jan  3 18:56:56 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR02 (Stab: 200)
+[Sat Jan  3 18:56:56 2026] [SURGERY] [START] Cirurgia BO3-Neuro iniciada: STR13 (Stab: 0)
+[Sat Jan  3 18:56:56 2026] [TRIAGE] [ADMIT] STR03 Admitido. Grav: 1
+[Sat Jan  3 18:56:56 2026] [TRIAGE] [ADMIT] 5 Admitido. Grav: 4
+[Sat Jan  3 18:56:56 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR03 (Stab: 200)
+[Sat Jan  3 18:57:03 2026] [SURGERY] [START] Cirurgia BO1-Cardio iniciada: STR12 (Stab: 0)
+[Sat Jan  3 18:57:05 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: STR01 (Stab: 200)
+[Sat Jan  3 18:57:09 2026] [SURGERY] [START] Cirurgia BO2-Orto iniciada: 5 (Stab: 200)
+[Sun Jan  4 15:46:39 2026] [SURGERY] Blocos Operatorios iniciados
+[Sun Jan  4 15:46:40 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sun Jan  4 15:56:36 2026] [SURGERY] Blocos Operatorios iniciados
+[Sun Jan  4 15:56:36 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sun Jan  4 16:05:49 2026] [SURGERY] Blocos Operatorios iniciados
+[Sun Jan  4 16:05:49 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sun Jan  4 16:11:21 2026] [SURGERY] Blocos Operatorios iniciados
+[Sun Jan  4 16:11:21 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sun Jan  4 19:19:06 2026] [SURGERY] Blocos Operatorios iniciados
+[Sun Jan  4 19:19:07 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sun Jan  4 21:58:06 2026] [SURGERY] Blocos Operatorios iniciados
+[Sun Jan  4 21:58:07 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sun Jan  4 21:59:22 2026] [SURGERY] Blocos Operatorios iniciados
+[Sun Jan  4 21:59:22 2026] [PHARMACY] Farmacia Central iniciada com CVs
+[Sun Jan  4 22:04:14 2026] [SURGERY] Blocos Operatorios iniciados
+[Sun Jan  4 22:04:14 2026] [PHARMACY] Farmacia Central iniciada com CVs
